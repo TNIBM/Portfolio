@@ -11,6 +11,8 @@ Here you will find a presentation of the portfolio composed of diverse business 
  • Online Video Game 
  
  • Global Financial Institution
+
+ • German Automotive Market Price and Efficiency
  
 ## Tools
  • Python, SQL, Tableau, Excel, GitHub, DBVisualizer, ChatGPT, Gemini
