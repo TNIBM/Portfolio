@@ -18,4 +18,4 @@ Here you will find a presentation of the portfolio composed of diverse business 
  • Python, SQL, Tableau, Excel, GitHub, DBVisualizer, ChatGPT, Gemini
 
 ## Portfolio Presentation
-Click [here](https://github.com/TNIBM/Portfolio/blob/main/Data%20Analytics%20Portfolio.pdf)
+Click [here](https://drive.google.com/file/d/1fDsEiAiiqeFrXyQWQNRri8zgKPWPs-SE/view?usp=drive_link)
